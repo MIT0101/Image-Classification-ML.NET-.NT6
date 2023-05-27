@@ -13,6 +13,6 @@ forest ,
 glacier ,
 mountain ,
 sea
-street ,
+street 
 
 
