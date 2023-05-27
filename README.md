@@ -12,7 +12,7 @@ buildings ,
 forest ,
 glacier ,
 mountain ,
-sea
+sea ,
 street 
 
 
